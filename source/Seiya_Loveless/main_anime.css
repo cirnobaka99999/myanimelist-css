@@ -1,0 +1,22 @@
+@import url('https://malcat.noahcgreen.com/series?user=seiya_loveless&preset=more&list=anime');
+
+@import"../menu.css";
+@import"cats_anime.css";
+@import"../list.css";
+
+body{background-attachment:fixed;background-color:#000000;
+background-image:url('//myanimelist.net/images/userwalls/314388.jpg');
+background-repeat:no-repeat;background-size:cover;color:#00ccff;
+font-family:Verdana,Arial;font-size:10px;line-height:14px;}
+
+:hover + .hide {z-index:100;
+background-repeat:no-repeat !important;
+background-color:rgba(0,51,102,0.8);
+background-position:50% 50% !important;
+border-radius:10px;border-width:0;
+display:block !important;
+height:350px;width:220px;
+background-size:250px !important;
+position:fixed;right:50%;top:50%;
+margin-top:-175px;padding:10px 20px;
+margin-right:-640px;} /*645-35*/

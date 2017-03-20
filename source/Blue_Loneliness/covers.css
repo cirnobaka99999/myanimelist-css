@@ -1,0 +1,11 @@
+:hover + .hide {z-index:100;
+background-repeat:no-repeat !important;
+background-color:rgba(0,51,102,0.8);
+background-position:50% 50% !important;
+border-radius:10px;border-width:0;
+display:block !important;
+height:350px;width:220px;
+background-size:250px !important;
+position:fixed;right:50%;top:50%;
+margin-top:-175px;padding:10px 20px;
+margin-right:-640px;} /*645-35*/
