@@ -22,60 +22,55 @@ top:40px;}
 
 /*now-*/
 #list_surround table:first-of-type td:nth-of-type(1) a{
-background-image:url(pics/abutton2.png);
+background-image:url("//i.imgur.com/LHiNBiW.png");
 top:135px;}
-
 
 /*compl-*/
 #list_surround table:first-of-type td:nth-of-type(2) a{
-background-image:url(pics/abutton3.png);
+background-image:url("//i.imgur.com/4NJDhvU.png");
 top:230px;}
 
 /*onhold-*/
 #list_surround table:first-of-type td:nth-of-type(3) a{
-background-image:url(pics/abutton4.png);
+background-image:url("//i.imgur.com/GTulN70.png");
 top:325px;}
-
 
 /*dropped-*/
 #list_surround table:first-of-type td:nth-of-type(4) a{
-background-image:url(pics/abutton5.png);
+background-image:url("//i.imgur.com/LIIkBvo.png");
 top:420px;}
 
 /*plan-*/
 #list_surround table:first-of-type td:nth-of-type(5) a{
-background-image:url(pics/abutton6.png);
+background-image:url("6.png");
 top:515px;}
 
 /*all+*/
 #list_surround table:first-of-type td:nth-of-type(6):not(.status_not_selected) a{
-background-image:url(pics/abutton1x.png);
+background-image:url("//i.imgur.com/aGQ6U4q.png");
 top:40px;}
 
 /*now+*/
 #list_surround table:first-of-type td:nth-of-type(1):not(.status_not_selected) a{
-background-image:url(pics/abutton2x.png);
+background-image:url("//i.imgur.com/wqtEXgM.png");
 top:135px;}
 
 /*compl+*/
 #list_surround table:first-of-type td:nth-of-type(2):not(.status_not_selected) a{
-background-image:url(pics/abutton3x.png);
+background-image:url("//i.imgur.com/02svEcT.png");
 top:230px;}
 
 /*onhold+*/
 #list_surround table:first-of-type td:nth-of-type(3):not(.status_not_selected) a{
-background-image:url(pics/abutton4x.png);
+background-image:url("//i.imgur.com/6TCWCIp.png");
 top:325px;}
 
 /*dropped+*/
 #list_surround table:first-of-type td:nth-of-type(4):not(.status_not_selected) a{
-background-image:url(pics/abutton5x.png);
+background-image:url("//i.imgur.com/dQSNvIh.png");
 top:420px;}
 
 /*plan+*/
 #list_surround table:first-of-type td:nth-of-type(5):not(.status_not_selected) a{
-background-image:url(pics/abutton6x.png);
+background-image:url("//i.imgur.com/z56s8ZH.png");
 top:515px;}
-
-
-
